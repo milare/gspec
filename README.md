@@ -18,6 +18,9 @@ Install:
 
 Go to: Edit->Preferences->Plug-ins and active plugin
 
+Screenshot
+----------
+![gspec](http://farm5.static.flickr.com/4081/4790978196_25478831ec_b.jpg)
 
 WARNING
 -------
