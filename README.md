@@ -6,10 +6,14 @@ GSpec is a Gedit Plugin to run rspec tests in Rails Application
 
 Install
 -------
-`git clone git@github.com:milare/gspec.git`
 
+Clone the resposity:
+`git clone git://github.com/milare/gspec.git`
+
+Go to dir:
 `cd gspec`
 
+Install:
 `./install.sh`
 
 Go to: Edit->Preferences->Plug-ins and active plugin

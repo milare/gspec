@@ -4,7 +4,6 @@ Module=gspec
 IAge=2
 Name=GSpec
 Description=Run Spec file
-
 Authors=Bruno Milare <milare@gmail.com>; Marcio Gasparotto <mgasparotto@gmail.com>
 Copyright=Copyright © 2010
 Website=http://www.gedit.org
